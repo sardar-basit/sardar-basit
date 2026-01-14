@@ -11,7 +11,7 @@
   <p>
     <a href="mailto:ab5826987@gmail.com">ab5826987@gmail.com</a> ·
     <a href="https://www.linkedin.com/in/basit-visions/" target="_blank">LinkedIn</a> ·
-    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">GitHub</a> ·
+    <a href="https://github.com/sardar-basit" target="_blank">GitHub</a> ·
     <span>+92 306 5176770</span>
   </p>
 </div>
@@ -28,7 +28,7 @@ Software Engineer specializing in AI/ML and backend development with hands-on ex
 - Working with Large Language Models (LLMs) for intelligent applications
 - Implementing VoIP solutions using Asterisk for telephony systems
 - Fine-tuning models using LoRA, QLoRA, and PEFT techniques
-- Designing and integrating REST APIs for AI-powered services
+- Designing and integrating APIs for AI-powered services
 - Applying prompt engineering techniques for optimal model performance
 
 ### Intern · SterlingsTech · Islamabad · Aug 2025 – Oct 2025
@@ -68,7 +68,7 @@ Software Engineer specializing in AI/ML and backend development with hands-on ex
       height="40"
       style="margin-right: 10px"
   /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"
+  <a href="https://github.com/sardar-basit" target="_blank"
     ><img
       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
       alt="Visit my GitHub"
