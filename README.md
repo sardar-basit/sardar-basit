@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.gif" alt="Abdul Basit Khan - Software Engineer" title="Abdul Basit Khan - Software Engineer" width="100%">
+  <img src="./assets/banner.gif" title="Abdul Basit Khan - Software Engineer" width="100%">
 </div>
 
 <div align="center">
