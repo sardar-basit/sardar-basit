@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.gif" title="Abdul Basit Khan - Software Engineer" width="100%">
-</div>
-
-<div align="center">
-  <h1 style="display: flex; align-items: center; justify-content: center;">
-    <img src="./assets/logo.png" alt="Abdul Basit Khan" title="Abdul Basit Khan - Software Engineer" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
-    Abdul Basit Khan
-  </h1>
+  <h1>Abdul Basit Khan</h1>
   <h3>Software Engineer</h3>
   <p>
     <a href="mailto:ab5826987@gmail.com">ab5826987@gmail.com</a> ·
