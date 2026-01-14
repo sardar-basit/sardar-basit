@@ -22,7 +22,7 @@ Software Engineer specializing in AI/ML and backend development with hands-on ex
 
 ## 💼 Work Experience
 
-### Junior Software Engineer · SterlingsTech · Islamabad · Nov 2024 – Present
+### Junior Software Engineer · SterlingsTech · Islamabad · Nov 2025 – Present
 - Developing and deploying AI/ML solutions for production environments
 - Building and optimizing STT (Speech-to-Text) and TTS (Text-to-Speech) pipelines
 - Working with Large Language Models (LLMs) for intelligent applications
@@ -31,7 +31,7 @@ Software Engineer specializing in AI/ML and backend development with hands-on ex
 - Designing and integrating REST APIs for AI-powered services
 - Applying prompt engineering techniques for optimal model performance
 
-### Intern · SterlingsTech · Islamabad · Aug 2024 – Oct 2024
+### Intern · SterlingsTech · Islamabad · Aug 2025 – Oct 2025
 - Learned Python for AI/ML application development
 - Gained hands-on experience with machine learning workflows and pipelines
 - Worked on STT, TTS, and LLM integration projects
@@ -40,8 +40,8 @@ Software Engineer specializing in AI/ML and backend development with hands-on ex
 
 ## 🎓 Education
 
-- Bachelor of Science, Software Engineering — *(In Progress)*  
-  Coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Databases
+- Bachelor of Science, Computer Science — *(2024 - In Progress)*  
+  Coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Databases, Web Technologies
 
 ## 🛠️ Skills
 
@@ -54,7 +54,7 @@ Software Engineer specializing in AI/ML and backend development with hands-on ex
 - Asterisk (VoIP)
 - MySQL, PostgreSQL
 - Git, GitHub, Docker
-- REST APIs
+- REST APIs, Flask APIs, Fast APIs
 
 ## 🔗 Links
 
